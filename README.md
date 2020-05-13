@@ -1,24 +1,14 @@
-# README
+# Adopt A Pet Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Heroku Link
 
-Things you may want to cover:
+## https://pet-adoption-api-aarik.herokuapp.com/pets
 
-* Ruby version
+## Technologies Used
 
-* System dependencies
+- Ruby on Rails
 
-* Configuration
+## Future Features
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- User Model
+- One to Many relationship between User and pets
